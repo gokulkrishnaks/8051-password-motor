@@ -145,4 +145,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 - Motor Movement Control Demo
 
 ## Author
-Gokul Krishna K S
+GOKUL KRISHNA K S
